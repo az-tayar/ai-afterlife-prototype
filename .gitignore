@@ -1,0 +1,10 @@
+.env
+.env.local
+.visitor-python
+.venv/
+__pycache__/
+*.pyc
+.gradio/
+gradio_cached_examples/
+
+.DS_Store
